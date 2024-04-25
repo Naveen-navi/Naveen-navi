@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-navi&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-navi" /> </p>
 
-- 🔭 I’m currently working on [SpringBoot_CRUD](https://github.com/Naveen-navi/SpringBoot_CRUD.git)
+- 🔭 I’m currently working on [React Framework]
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-git-main-naveen-ns-projects.vercel.app/](https://portfolio-git-main-naveen-ns-projects.vercel.app/)
 
-- 💬 Ask me about **Java, Python, Django, HTML, CSS and JS, MYSQL, Data Structures**
+- 💬 Ask me about **Java, Spring Boot, Python, Django, HTML, CSS and JS, MYSQL, Data Structures**
 
 - 📫 How to reach me **mrnaveennataraju@gmail.com**
 
